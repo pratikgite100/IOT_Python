@@ -1,0 +1,52 @@
+[
+  {
+    "Temperature": 25,
+    "Pressure": 850,
+    "Humidity": 12
+  },
+  {
+    "Temperature": 28,
+    "Pressure": 870,
+    "Humidity": 14
+  },
+  {
+    "Temperature": 29,
+    "Pressure": 890,
+    "Humidity": 14
+  },
+  {
+    "Temperature": 25,
+    "Pressure": 880,
+    "Humidity": 13
+  },
+  {
+    "Temperature": 26,
+    "Pressure": 850,
+    "Humidity": 12
+  },
+  {
+    "Temperature": 27,
+    "Pressure": 850,
+    "Humidity": 12
+  },
+  {
+    "Temperature": 28,
+    "Pressure": 850,
+    "Humidity": 13
+  },
+  {
+    "Temperature": 29,
+    "Pressure": 890,
+    "Humidity": 14
+  },
+  {
+    "Temperature": 28,
+    "Pressure": 850,
+    "Humidity": 12
+  },
+  {
+    "Temperature": 29,
+    "Pressure": 895,
+    "Humidity": 15
+  }
+]
